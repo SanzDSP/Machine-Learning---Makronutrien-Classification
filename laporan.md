@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Sandi Sukoco Putro
+# Laporan Proyek Machine Learning
 
 ## Domain Proyek
 
